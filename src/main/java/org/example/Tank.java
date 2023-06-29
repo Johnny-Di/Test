@@ -7,6 +7,7 @@ public class Tank {
     public Tank(int xPosition, int yPosition) {
         this.x = xPosition;
         this.y = yPosition;
+        this.y = yPosition;
     }
 
     public Tank(int xPosition, int yPosition, int fuel) {
